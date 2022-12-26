@@ -7,28 +7,7 @@ from collections import Counter
 from skimage.color import rgb2lab, deltaE_cie76
 import os
 from PIL import Image, ImageDraw
-# importing the detect function, from another file
-# from detect import detect, opt
 
-# the name of the model, generated through roboflor - google colab
-# opt.weights = ("best.pt")
-# # the name of the picture, which is inside the folder 'yolo7'
-# opt.source = ("0001.jpg")
-# detect()
-
-# detecting through model pieces of clothes
-
-# folder = "crop"                           
-# images_names = [filename for filename in os.listdir(folder)]
-# crop_images_list = os.listdir(folder)
-# print(crop_images_list)
-
-# print(f"These cropped images are inside {folder} folder")
-
-# for i in crop_images_list:
-#     img = Image.open("crop/" + i)
-#     img.show(i)
-# this would open each image separetly
 
 #Make piecharts folder
 if not os.path.exists("static/pie_charts"):
