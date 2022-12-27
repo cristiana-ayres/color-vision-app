@@ -13,7 +13,7 @@ There is a condition called Color-Blindness, and this affect more men than women
 
 "Color blindness affects approximately 1 in 12 men and 1 in 200 women."
 
-(color-blindness types image)
+![](https://github.com/cristiana-ayres/color-vision-app/blob/main/flask_images/colorblindness.JPG)
 
 Basically, and depending on the type of condition, some colors can be misinterpreted and that's not what we want in some cases, specially when we have to communicate using colors. 
 
@@ -53,13 +53,16 @@ Project Planning:
 
 ## Home page
 
-(gif) 
+Passing through the images: from a Black&White wardrobe, we encounter happy people, colorful fully dressed, and finally an image that trully represents the purpose and usability of the webpage: discover, throught HEX colors codes, the true colors the user is dressing.
 
-Passing through the images: from a Black&White wardrobe, we encounter happy people, colorful fully dressed, and finally an image that trully represents the purpose and usability of the webpage: discover, throught HEX colors codes, the true colors the user is dressing. 
+![](https://github.com/cristiana-ayres/color-vision-app/blob/main/flask_images/Home%20Page%20Carrousel.gif)
+ 
 
 ## About Section
 
 Just scrolling down a bit, it is possible to have a brief description of how to use and enjoy the webpage. 
+
+![](https://github.com/cristiana-ayres/color-vision-app/blob/main/flask_images/how_it_works.JPG)
 
 # # Navigation bar
 
