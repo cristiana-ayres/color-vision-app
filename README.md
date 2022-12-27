@@ -79,5 +79,11 @@ Just scrolling down a bit, it is possible to have a brief description of how to 
 
 ## Results page
 
-## Dropdown | Suggestions
+<p align="center" width="100%">
+  <img width="130%" src="https://github.com/cristiana-ayres/color-vision-app/blob/main/flask_images/see_results.gif"/>
+</p>
+
+## Discover more about colors!
+
+![](https://github.com/cristiana-ayres/color-vision-app/blob/main/flask_images/discover_more.JPG)
 
