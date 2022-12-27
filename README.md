@@ -55,7 +55,7 @@ Project Planning:
 
 ## Home page
 
-Passing through the images: from a Black&White wardrobe, we encounter happy people, colorful fully dressed, and finally an image that trully represents the purpose and usability of the webpage: discover, throught HEX colors codes, the true colors the user is dressing.
+Passing through the images: from a Black&White wardrobe, we encounter happy people, colorful fully dressed, and finally an image that trully represents the purpose and usability of the webpage: discover, throught HEX colors codes, the true colors the user is wearing.
 
 <p align="center" width="100%">
   <img width="130%" src="https://github.com/cristiana-ayres/color-vision-app/blob/main/flask_images/home_page_carrousel.gif"/>
@@ -70,6 +70,12 @@ Just scrolling down a bit, it is possible to have a brief description of how to 
 # Navigation bar
 
 ## Upload page
+
+![](https://github.com/cristiana-ayres/color-vision-app/blob/main/flask_images/upload_pic.JPG)
+
+<p align="center" width="100%">
+  <img width="130%" src="https://github.com/cristiana-ayres/color-vision-app/blob/main/flask_images/pic_uploaded.gif"/>
+</p>
 
 ## Results page
 
