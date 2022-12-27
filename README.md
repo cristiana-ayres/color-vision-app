@@ -5,17 +5,47 @@ The Final Project of Ironhack Data Analytics Bootcamp. October-November 2022, pr
 
 ## Overview  
 
+Can you easily identify colors such as red, green, blue, purple, etc? 
+
+Most people can do it, but a specific condition made me think about how hard it can be sometimes for people that misinterpret the colors as they really are. 
+
+There is a condition called Color-Blindness, and this affect more men than women, actually. 
+
+"Color blindness affects approximately 1 in 12 men and 1 in 200 women."
+
+(color-blindness types image)
+
+Basically, and depending on the type of condition, some colors can be misinterpreted and that's not what we want in some cases, specially when we have to communicate using colors. 
+
+## Why this matters
+
+The purpose is to bring awareness: correct matching colors are pleasant and improves the intention to communicate clearly and objectively. 
+
+My inspiration to develop this project came firstly by a well-known situation I've been living with my Dad: he's a color-blind person. Nothing that incapacitates him, but struggles to pick the correct object indicated by its color, and specially matching clothes. I've been his style coach since then. 
+
+Then, as a Data Analyst, something in particular has caught my eye: if we are dealing with Data Visualization, colors are really important.   
 
 
 ## Problem Definition
 
+Specially thought for the colorblind people, but also for anyone who's interested in how colors match the best!
 
-Project Planning: -
-1. Data Gathering | divided into 2 steps (Collecting images manually, and automatically through library)
+The project brings, through Object Detection (Neural Networks) and Color Extraction (Unsupervised Learning Algorithm) models, a way to correctly identify colors in an outfit.
 
-2. Model Building | 
 
-3. Developing Functionality through Python | After Object Detecting the items (labeled previously) into new images, followed by Color Extraction, using K-Means Clustering (Unsupervised Learning Method)
+Project Planning: 
+
+1. Data Gathering | Divided into 2 steps 
+- Collecting images of outfits manually, at online shops, such as Mango, Zara, Massimo Dutti, etc...
+- Then, in an automated way, through simple_image_download library, searching and locally saving directly from Google images.
+
+- After selecting the best pictures to train the model, I ended up with 230 images in total.  
+
+2. Model Building | and libraries used
+- Through Roboflow, to annotate each image with the labels I wanted, splitting into labels
+- Through Yolov7 and PyTorch, to finally generate the best model
+
+3. Developing Functionality through Python | After Object Detecting, cropping the items into new images, followed by Color Extraction, using K-Means Clustering (Unsupervised Learning Method)
 
 4. Demonstration on Flask | generating a webpage hosted locally
 
@@ -23,7 +53,7 @@ Project Planning: -
 
 ## Home page
 
-A carrousel of images that intent to explain how the process works. "Discover your True Colors" is the Project's intention, specially though for color-blind people and whoever want to discover more about how colors match the best. 
+(gif) 
 
 Passing through the images: from a Black&White wardrobe, we encounter happy people, colorful fully dressed, and finally an image that trully represents the purpose and usability of the webpage: discover, throught HEX colors codes, the true colors the user is dressing. 
 
