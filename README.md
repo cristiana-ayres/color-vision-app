@@ -55,6 +55,10 @@ Project Planning:
 
 Passing through the images: from a Black&White wardrobe, we encounter happy people, colorful fully dressed, and finally an image that trully represents the purpose and usability of the webpage: discover, throught HEX colors codes, the true colors the user is dressing.
 
+<p align="center">
+  <img src="https://github.com/cristiana-ayres/color-vision-app/blob/main/flask_images/Home%20Page%20Carrousel.gif"/>
+</p>
+
 ![](https://github.com/cristiana-ayres/color-vision-app/blob/main/flask_images/Home%20Page%20Carrousel.gif)
  
 
