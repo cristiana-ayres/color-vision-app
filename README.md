@@ -85,5 +85,5 @@ Just scrolling down a bit, it is possible to have a brief description of how to 
 
 ## Discover more about colors!
 
-![](https://github.com/cristiana-ayres/color-vision-app/blob/main/flask_images/discover_more.JPG)
+![](https://github.com/cristiana-ayres/color-vision-app/blob/main/flask_images/discover_more.jpg)
 
