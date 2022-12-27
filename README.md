@@ -13,7 +13,7 @@ There is a condition called Color-Blindness, and this affect more men than women
 
 "Color blindness affects approximately 1 in 12 men and 1 in 200 women."
 
-![](https://github.com/cristiana-ayres/color-vision-app/blob/main/flask_images/colorblindness.JPG)
+![](https://github.com/cristiana-ayres/color-vision-app/blob/main/flask_images/colorblindness.jpg)
 
 Basically, and depending on the type of condition, some colors can be misinterpreted and that's not what we want in some cases, specially when we have to communicate using colors. 
 
