@@ -32,7 +32,7 @@ Then, as a Data Analyst, something in particular has caught my eye: if we are de
 
 Specially thought for the colorblind people, but also for anyone who's interested in how colors match the best!
 
-The project brings, through Object Detection (Neural Networks) and Color Extraction (Unsupervised Learning Algorithm) models, a way to correctly identify colors in an outfit.
+The project brings, through Object Detection (Artificial Neural Networks - AI) and Color Extraction (Unsupervised Learning Algorithm - Machine Learning) models, a way to correctly identify colors in an outfit.
 
 
 Project Planning: 
